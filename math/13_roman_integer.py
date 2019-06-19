@@ -12,3 +12,7 @@ class solution:
 origi=input("Give a Ramans number:")
 solu=solution()
 solu.reverse(origi)
+
+#runtime:60ms
+#memory:13.4MB
+#why input use "" double quate only instead of ''
